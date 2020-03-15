@@ -1,1 +1,1 @@
-#  Pythonn Samle:  Pygame  Tetris
+#  Python Samples :  Flask,  Game, SQL, Pandas, IA
